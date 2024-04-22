@@ -2,7 +2,6 @@ import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
-import cv2
 
 
 st.set_page_config("Breast cancer Prediction")
